@@ -1,0 +1,1002 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://geekbotelectronics.com/xmlrpc.php">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Sensor ADXL345 Acelerómetro Digital - Geekbot Electronics</title>
+	<meta name="description" content="El ADXL345 es un acelerómetro de 3 ejes de alta resolución (13 bit) que puede medir hasta ± 16 g. Es pequeño y delgado, y tiene bajo consumo de energía." />
+	<link rel="canonical" href="https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/" />
+	<meta property="og:locale" content="es_ES" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Sensor ADXL345 Acelerómetro Digital - Geekbot Electronics" />
+	<meta property="og:description" content="El ADXL345 es un acelerómetro de 3 ejes de alta resolución (13 bit) que puede medir hasta ± 16 g. Es pequeño y delgado, y tiene bajo consumo de energía." />
+	<meta property="og:url" content="https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/" />
+	<meta property="og:site_name" content="Geekbot Electronics" />
+	<meta property="article:modified_time" content="2023-09-08T23:01:58+00:00" />
+	<meta property="og:image" content="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg" />
+	<meta property="og:image:width" content="1000" />
+	<meta property="og:image:height" content="1000" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Tiempo de lectura" />
+	<meta name="twitter:data1" content="2 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/","url":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/","name":"Sensor ADXL345 Acelerómetro Digital - Geekbot Electronics","isPartOf":{"@id":"https://geekbotelectronics.com/tienda/#website"},"primaryImageOfPage":{"@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/#primaryimage"},"image":{"@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/#primaryimage"},"thumbnailUrl":"https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg","datePublished":"2021-06-07T19:56:44+00:00","dateModified":"2023-09-08T23:01:58+00:00","description":"El ADXL345 es un acelerómetro de 3 ejes de alta resolución (13 bit) que puede medir hasta ± 16 g. Es pequeño y delgado, y tiene bajo consumo de energía.","breadcrumb":{"@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/#primaryimage","url":"https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg","contentUrl":"https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg","width":1000,"height":1000},{"@type":"BreadcrumbList","@id":"https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Portada","item":"https://geekbotelectronics.com/tienda/"},{"@type":"ListItem","position":2,"name":"Tienda","item":"https://geekbotelectronics.com/tienda/"},{"@type":"ListItem","position":3,"name":"Sensor ADXL345 Acelerómetro Digital"}]},{"@type":"WebSite","@id":"https://geekbotelectronics.com/tienda/#website","url":"https://geekbotelectronics.com/tienda/","name":"Geekbot Electronics","description":"Tienda de electrónica","publisher":{"@id":"https://geekbotelectronics.com/tienda/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://geekbotelectronics.com/tienda/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"},{"@type":"Organization","@id":"https://geekbotelectronics.com/tienda/#organization","name":"Geekbot Electronics","url":"https://geekbotelectronics.com/tienda/","logo":{"@type":"ImageObject","inLanguage":"es","@id":"https://geekbotelectronics.com/tienda/#/schema/logo/image/","url":"https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398.png","contentUrl":"https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398.png","width":1710,"height":463,"caption":"Geekbot Electronics"},"image":{"@id":"https://geekbotelectronics.com/tienda/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Geekbot Electronics &raquo; Feed" href="https://geekbotelectronics.com/tienda/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Geekbot Electronics &raquo; Feed de los comentarios" href="https://geekbotelectronics.com/tienda/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/geekbotelectronics.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='woocommerce-mercadopago-info-admin-credits-style-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce-mercadopago/includes/../assets/css/credits/example-info.min.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://geekbotelectronics.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.3' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=9.6.5' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=9.6.5' media='all' />
+<link rel='stylesheet' id='storefront-gutenberg-blocks-css' href='https://geekbotelectronics.com/wp-content/themes/storefront/assets/css/base/gutenberg-blocks.css?ver=3.7.0' media='all' />
+<style id='storefront-gutenberg-blocks-inline-css'>
+
+				.wp-block-button__link:not(.has-text-color) {
+					color: #333333;
+				}
+
+				.wp-block-button__link:not(.has-text-color):hover,
+				.wp-block-button__link:not(.has-text-color):focus,
+				.wp-block-button__link:not(.has-text-color):active {
+					color: #333333;
+				}
+
+				.wp-block-button__link:not(.has-background) {
+					background-color: #eeeeee;
+				}
+
+				.wp-block-button__link:not(.has-background):hover,
+				.wp-block-button__link:not(.has-background):focus,
+				.wp-block-button__link:not(.has-background):active {
+					border-color: #d5d5d5;
+					background-color: #d5d5d5;
+				}
+
+				.wp-block-quote footer,
+				.wp-block-quote cite,
+				.wp-block-quote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-pullquote cite,
+				.wp-block-pullquote footer,
+				.wp-block-pullquote__citation {
+					color: #6d6d6d;
+				}
+
+				.wp-block-image figcaption {
+					color: #6d6d6d;
+				}
+
+				.wp-block-separator.is-style-dots::before {
+					color: #333333;
+				}
+
+				.wp-block-file a.wp-block-file__button {
+					color: #333333;
+					background-color: #eeeeee;
+					border-color: #eeeeee;
+				}
+
+				.wp-block-file a.wp-block-file__button:hover,
+				.wp-block-file a.wp-block-file__button:focus,
+				.wp-block-file a.wp-block-file__button:active {
+					color: #333333;
+					background-color: #d5d5d5;
+				}
+
+				.wp-block-code,
+				.wp-block-preformatted pre {
+					color: #6d6d6d;
+				}
+
+				.wp-block-table:not( .has-background ):not( .is-style-stripes ) tbody tr:nth-child(2n) td {
+					background-color: #fdfdfd;
+				}
+
+				.wp-block-cover .wp-block-cover__inner-container h1:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h2:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h3:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h4:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h5:not(.has-text-color),
+				.wp-block-cover .wp-block-cover__inner-container h6:not(.has-text-color) {
+					color: #000000;
+				}
+
+				.wc-block-components-price-slider__range-input-progress,
+				.rtl .wc-block-components-price-slider__range-input-progress {
+					--range-color: #96588a;
+				}
+
+				/* Target only IE11 */
+				@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+					.wc-block-components-price-slider__range-input-progress {
+						background: #96588a;
+					}
+				}
+
+				.wc-block-components-button:not(.is-link) {
+					background-color: #663398;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):hover,
+				.wc-block-components-button:not(.is-link):focus,
+				.wc-block-components-button:not(.is-link):active {
+					background-color: #4d1a7f;
+					color: #ffffff;
+				}
+
+				.wc-block-components-button:not(.is-link):disabled {
+					background-color: #663398;
+					color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container {
+					background-color: #ffffff;
+				}
+
+				.wc-block-cart__submit-container::before {
+					color: rgba(220,220,220,0.5);
+				}
+
+				.wc-block-components-order-summary-item__quantity {
+					background-color: #ffffff;
+					border-color: #6d6d6d;
+					box-shadow: 0 0 0 2px #ffffff;
+					color: #6d6d6d;
+				}
+			
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://geekbotelectronics.com/wp-includes/css/classic-themes.min.css?ver=6.2.3' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 14px;--wp--preset--font-size--medium: 23px;--wp--preset--font-size--large: 26px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 16px;--wp--preset--font-size--huge: 37px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='pm-toastr-pusher-css' href='https://geekbotelectronics.com/wp-content/plugins/wedevs-project-manager/src/Pusher/views/assets/css/toastr/toastr.min.css?ver=v2.1.3' media='all' />
+<link rel='stylesheet' id='pm-pro-pusher-notification-css' href='https://geekbotelectronics.com/wp-content/plugins/wedevs-project-manager/src/Pusher/views/assets/css/pusher.css?ver=1701924071' media='all' />
+<link rel='stylesheet' id='photoswipe-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.5.0' media='all' />
+<link rel='stylesheet' id='photoswipe-default-skin-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.5.0' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woocommerce-mercadopago-global-css-css' href='https://geekbotelectronics.com/wp-content/plugins/woocommerce-mercadopago/includes/../assets/css/global.min.css?ver=6.7.1' media='all' />
+<link rel='stylesheet' id='storefront-style-css' href='https://geekbotelectronics.com/wp-content/themes/storefront/style.css?ver=3.7.0' media='all' />
+<style id='storefront-style-inline-css'>
+
+			.main-navigation ul li a,
+			.site-title a,
+			ul.menu li a,
+			.site-branding h1 a,
+			button.menu-toggle,
+			button.menu-toggle:hover,
+			.handheld-navigation .dropdown-toggle {
+				color: #333333;
+			}
+
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				border-color: #333333;
+			}
+
+			.main-navigation ul li a:hover,
+			.main-navigation ul li:hover > a,
+			.site-title a:hover,
+			.site-header ul.menu li.current-menu-item > a {
+				color: #747474;
+			}
+
+			table:not( .has-background ) th {
+				background-color: #f8f8f8;
+			}
+
+			table:not( .has-background ) tbody td {
+				background-color: #fdfdfd;
+			}
+
+			table:not( .has-background ) tbody tr:nth-child(2n) td,
+			fieldset,
+			fieldset legend {
+				background-color: #fbfbfb;
+			}
+
+			.site-header,
+			.secondary-navigation ul ul,
+			.main-navigation ul.menu > li.menu-item-has-children:after,
+			.secondary-navigation ul.menu ul,
+			.storefront-handheld-footer-bar,
+			.storefront-handheld-footer-bar ul li > a,
+			.storefront-handheld-footer-bar ul li.search .site-search,
+			button.menu-toggle,
+			button.menu-toggle:hover {
+				background-color: #ffffff;
+			}
+
+			p.site-description,
+			.site-header,
+			.storefront-handheld-footer-bar {
+				color: #404040;
+			}
+
+			button.menu-toggle:after,
+			button.menu-toggle:before,
+			button.menu-toggle span:before {
+				background-color: #333333;
+			}
+
+			h1, h2, h3, h4, h5, h6, .wc-block-grid__product-title {
+				color: #333333;
+			}
+
+			.widget h1 {
+				border-bottom-color: #333333;
+			}
+
+			body,
+			.secondary-navigation a {
+				color: #6d6d6d;
+			}
+
+			.widget-area .widget a,
+			.hentry .entry-header .posted-on a,
+			.hentry .entry-header .post-author a,
+			.hentry .entry-header .post-comments a,
+			.hentry .entry-header .byline a {
+				color: #727272;
+			}
+
+			a {
+				color: #96588a;
+			}
+
+			a:focus,
+			button:focus,
+			.button.alt:focus,
+			input:focus,
+			textarea:focus,
+			input[type="button"]:focus,
+			input[type="reset"]:focus,
+			input[type="submit"]:focus,
+			input[type="email"]:focus,
+			input[type="tel"]:focus,
+			input[type="url"]:focus,
+			input[type="password"]:focus,
+			input[type="search"]:focus {
+				outline-color: #96588a;
+			}
+
+			button, input[type="button"], input[type="reset"], input[type="submit"], .button, .widget a.button {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #333333;
+			}
+
+			button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .button:hover, .widget a.button:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			button.alt, input[type="button"].alt, input[type="reset"].alt, input[type="submit"].alt, .button.alt, .widget-area .widget a.button.alt {
+				background-color: #663398;
+				border-color: #663398;
+				color: #ffffff;
+			}
+
+			button.alt:hover, input[type="button"].alt:hover, input[type="reset"].alt:hover, input[type="submit"].alt:hover, .button.alt:hover, .widget-area .widget a.button.alt:hover {
+				background-color: #4d1a7f;
+				border-color: #4d1a7f;
+				color: #ffffff;
+			}
+
+			.pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			#comments .comment-list .comment-content .comment-text {
+				background-color: #f8f8f8;
+			}
+
+			.site-footer {
+				background-color: #663398;
+				color: #ffffff;
+			}
+
+			.site-footer a:not(.button):not(.components-button) {
+				color: #c4c4c4;
+			}
+
+			.site-footer .storefront-handheld-footer-bar a:not(.button):not(.components-button) {
+				color: #333333;
+			}
+
+			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6, .site-footer .widget .widget-title, .site-footer .widget .widgettitle {
+				color: #333333;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-title {
+				color: #000000;
+			}
+
+			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-content {
+				color: #000000;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.secondary-navigation ul.menu a:hover {
+					color: #595959;
+				}
+
+				.secondary-navigation ul.menu a {
+					color: #404040;
+				}
+
+				.main-navigation ul.menu ul.sub-menu,
+				.main-navigation ul.nav-menu ul.children {
+					background-color: #f0f0f0;
+				}
+
+				.site-header {
+					border-bottom-color: #f0f0f0;
+				}
+			}
+</style>
+<link rel='stylesheet' id='storefront-icons-css' href='https://geekbotelectronics.com/wp-content/themes/storefront/assets/css/base/icons.css?ver=3.7.0' media='all' />
+<link rel='stylesheet' id='storefront-fonts-css' href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C300%2C300italic%2C400italic%2C600%2C700%2C900&#038;subset=latin%2Clatin-ext&#038;ver=3.7.0' media='all' />
+<link rel='stylesheet' id='storefront-woocommerce-style-css' href='https://geekbotelectronics.com/wp-content/themes/storefront/assets/css/woocommerce/woocommerce.css?ver=3.7.0' media='all' />
+<style id='storefront-woocommerce-style-inline-css'>
+@font-face {
+				font-family: star;
+				src: url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//star.eot);
+				src:
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//star.eot?#iefix) format("embedded-opentype"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//star.woff) format("woff"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//star.ttf) format("truetype"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//star.svg#star) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+			@font-face {
+				font-family: WooCommerce;
+				src: url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//WooCommerce.eot);
+				src:
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//WooCommerce.eot?#iefix) format("embedded-opentype"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//WooCommerce.woff) format("woff"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//WooCommerce.ttf) format("truetype"),
+					url(https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/fonts//WooCommerce.svg#WooCommerce) format("svg");
+				font-weight: 400;
+				font-style: normal;
+			}
+
+			a.cart-contents,
+			.site-header-cart .widget_shopping_cart a {
+				color: #333333;
+			}
+
+			a.cart-contents:hover,
+			.site-header-cart .widget_shopping_cart a:hover,
+			.site-header-cart:hover > li > a {
+				color: #747474;
+			}
+
+			table.cart td.product-remove,
+			table.cart td.actions {
+				border-top-color: #ffffff;
+			}
+
+			.storefront-handheld-footer-bar ul li.cart .count {
+				background-color: #333333;
+				color: #ffffff;
+				border-color: #ffffff;
+			}
+
+			.woocommerce-tabs ul.tabs li.active a,
+			ul.products li.product .price,
+			.onsale,
+			.wc-block-grid__product-onsale,
+			.widget_search form:before,
+			.widget_product_search form:before {
+				color: #6d6d6d;
+			}
+
+			.woocommerce-breadcrumb a,
+			a.woocommerce-review-link,
+			.product_meta a {
+				color: #727272;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale {
+				border-color: #6d6d6d;
+			}
+
+			.star-rating span:before,
+			.quantity .plus, .quantity .minus,
+			p.stars a:hover:after,
+			p.stars a:after,
+			.star-rating span:before,
+			#payment .payment_methods li input[type=radio]:first-child:checked+label:before {
+				color: #96588a;
+			}
+
+			.widget_price_filter .ui-slider .ui-slider-range,
+			.widget_price_filter .ui-slider .ui-slider-handle {
+				background-color: #96588a;
+			}
+
+			.order_details {
+				background-color: #f8f8f8;
+			}
+
+			.order_details > li {
+				border-bottom: 1px dotted #e3e3e3;
+			}
+
+			.order_details:before,
+			.order_details:after {
+				background: -webkit-linear-gradient(transparent 0,transparent 0),-webkit-linear-gradient(135deg,#f8f8f8 33.33%,transparent 33.33%),-webkit-linear-gradient(45deg,#f8f8f8 33.33%,transparent 33.33%)
+			}
+
+			#order_review {
+				background-color: #ffffff;
+			}
+
+			#payment .payment_methods > li .payment_box,
+			#payment .place-order {
+				background-color: #fafafa;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice) {
+				background-color: #f5f5f5;
+			}
+
+			#payment .payment_methods > li:not(.woocommerce-notice):hover {
+				background-color: #f0f0f0;
+			}
+
+			.woocommerce-pagination .page-numbers li .page-numbers.current {
+				background-color: #e6e6e6;
+				color: #636363;
+			}
+
+			.wc-block-grid__product-onsale,
+			.onsale,
+			.woocommerce-pagination .page-numbers li .page-numbers:not(.current) {
+				color: #6d6d6d;
+			}
+
+			p.stars a:before,
+			p.stars a:hover~a:before,
+			p.stars.selected a.active~a:before {
+				color: #6d6d6d;
+			}
+
+			p.stars.selected a.active:before,
+			p.stars:hover a:before,
+			p.stars.selected a:not(.active):before,
+			p.stars.selected a.active:before {
+				color: #96588a;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger {
+				background-color: #eeeeee;
+				color: #333333;
+			}
+
+			.single-product div.product .woocommerce-product-gallery .woocommerce-product-gallery__trigger:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			.button.added_to_cart:focus,
+			.button.wc-forward:focus {
+				outline-color: #96588a;
+			}
+
+			.added_to_cart,
+			.site-header-cart .widget_shopping_cart a.button,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
+				background-color: #eeeeee;
+				border-color: #eeeeee;
+				color: #333333;
+			}
+
+			.added_to_cart:hover,
+			.site-header-cart .widget_shopping_cart a.button:hover,
+			.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover {
+				background-color: #d5d5d5;
+				border-color: #d5d5d5;
+				color: #333333;
+			}
+
+			.added_to_cart.alt, .added_to_cart, .widget a.button.checkout {
+				background-color: #663398;
+				border-color: #663398;
+				color: #ffffff;
+			}
+
+			.added_to_cart.alt:hover, .added_to_cart:hover, .widget a.button.checkout:hover {
+				background-color: #4d1a7f;
+				border-color: #4d1a7f;
+				color: #ffffff;
+			}
+
+			.button.loading {
+				color: #eeeeee;
+			}
+
+			.button.loading:hover {
+				background-color: #eeeeee;
+			}
+
+			.button.loading:after {
+				color: #333333;
+			}
+
+			@media screen and ( min-width: 768px ) {
+				.site-header-cart .widget_shopping_cart,
+				.site-header .product_list_widget li .quantity {
+					color: #404040;
+				}
+
+				.site-header-cart .widget_shopping_cart .buttons,
+				.site-header-cart .widget_shopping_cart .total {
+					background-color: #f5f5f5;
+				}
+
+				.site-header-cart .widget_shopping_cart {
+					background-color: #f0f0f0;
+				}
+			}
+				.storefront-product-pagination a {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+				.storefront-sticky-add-to-cart {
+					color: #6d6d6d;
+					background-color: #ffffff;
+				}
+
+				.storefront-sticky-add-to-cart a:not(.button) {
+					color: #333333;
+				}
+</style>
+<script src='https://geekbotelectronics.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script src='https://geekbotelectronics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://geekbotelectronics.com/tienda/wp-json/" /><link rel="alternate" type="application/json" href="https://geekbotelectronics.com/tienda/wp-json/wp/v2/product/4691" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://geekbotelectronics.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://geekbotelectronics.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.3" />
+<meta name="generator" content="WooCommerce 7.5.0" />
+<link rel='shortlink' href='https://geekbotelectronics.com/tienda/?p=4691' />
+<link rel="alternate" type="application/json+oembed" href="https://geekbotelectronics.com/tienda/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeekbotelectronics.com%2Ftienda%2Fproducto%2Fsensor-adxl345-acelerometro-digital%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://geekbotelectronics.com/tienda/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgeekbotelectronics.com%2Ftienda%2Fproducto%2Fsensor-adxl345-acelerometro-digital%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://geekbotelectronics.com/wp-content/uploads/2021/06/cropped-corazon_icono_2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://geekbotelectronics.com/wp-content/uploads/2021/06/cropped-corazon_icono_2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://geekbotelectronics.com/wp-content/uploads/2021/06/cropped-corazon_icono_2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://geekbotelectronics.com/wp-content/uploads/2021/06/cropped-corazon_icono_2-270x270.png" />
+</head>
+
+<body class="product-template-default single single-product postid-4691 wp-custom-logo wp-embed-responsive theme-storefront woocommerce woocommerce-page woocommerce-demo-store woocommerce-no-js storefront-secondary-navigation storefront-align-wide right-sidebar woocommerce-active">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<div id="page" class="hfeed site">
+	
+	<header id="masthead" class="site-header" role="banner" style="">
+
+		<div class="col-full">		<a class="skip-link screen-reader-text" href="#site-navigation">Ir a la navegación</a>
+		<a class="skip-link screen-reader-text" href="#content">Ir al contenido</a>
+				<div class="site-branding">
+			<a href="https://geekbotelectronics.com/tienda/" class="custom-logo-link" rel="home"><img width="1710" height="463" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398.png" class="custom-logo" alt="Logo GeekBot" decoding="async" srcset="https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398.png 1710w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-416x113.png 416w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-300x81.png 300w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-1024x277.png 1024w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-768x208.png 768w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-1536x416.png 1536w, https://geekbotelectronics.com/wp-content/uploads/2021/06/Logo-Oficial-PNG-663398-1320x357.png 1320w" sizes="(max-width: 1710px) 100vw, 1710px" /></a>		</div>
+					<nav class="secondary-navigation" role="navigation" aria-label="Navegación secundaria">
+				<div class="menu-menu-secundario-container"><ul id="menu-menu-secundario" class="menu"><li id="menu-item-12938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12938"><a href="https://geekbotelectronics.com/tienda/mi-cuenta/">Mi cuenta</a></li>
+<li id="menu-item-12936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12936"><a href="https://geekbotelectronics.com/tienda/soporte/">Soporte</a></li>
+<li id="menu-item-12937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12937"><a href="https://geekbotelectronics.com/tienda/acerca-de/">Acerca de</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+						<div class="site-search">
+				<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://geekbotelectronics.com/tienda/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-0">Buscar por:</label>
+	<input type="search" id="woocommerce-product-search-field-0" class="search-field" placeholder="Buscar productos&hellip;" value="" name="s" />
+	<button type="submit" value="Buscar" class="wp-element-button">Buscar</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>			</div>
+			</div><div class="storefront-primary-navigation"><div class="col-full">		<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Navegación principal">
+		<button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false"><span>Menú</span></button>
+			<div class="primary-navigation"><ul id="menu-menu-principal" class="menu"><li id="menu-item-12929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current_page_parent menu-item-12929"><a href="https://geekbotelectronics.com/tienda/">Tienda</a></li>
+<li id="menu-item-12925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12925"><a href="https://geekbotelectronics.com/tienda/servicios/">Servicios</a>
+<ul class="sub-menu">
+	<li id="menu-item-12955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12955"><a href="https://geekbotelectronics.com/tienda/grabado-laser-sobre-metal/">Grabado Láser sobre Metal</a></li>
+	<li id="menu-item-12959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12959"><a href="https://geekbotelectronics.com/tienda/diseno-de-circuitos-impresos/">Diseño de Circuitos Impresos</a></li>
+	<li id="menu-item-12958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12958"><a href="https://geekbotelectronics.com/tienda/ensamble-de-circuitos-impresos/">Ensamble de Circuitos Impresos</a></li>
+	<li id="menu-item-12957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12957"><a href="https://geekbotelectronics.com/tienda/corte-laser/">Corte Láser</a></li>
+	<li id="menu-item-12956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12956"><a href="https://geekbotelectronics.com/tienda/impresion-3d/">Impresión 3D</a></li>
+</ul>
+</li>
+<li id="menu-item-12926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12926"><a href="https://geekbotelectronics.com/tienda/contacto/">Contacto</a></li>
+<li id="menu-item-12928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12928"><a href="https://geekbotelectronics.com/tienda/carrito/">Carrito</a></li>
+</ul></div><div class="menu"><ul>
+<li ><a href="https://geekbotelectronics.com/tienda/">Inicio</a></li><li class="page_item page-item-11149"><a href="https://geekbotelectronics.com/tienda/acerca-de/">Acerca de</a></li>
+<li class="page_item page-item-7"><a href="https://geekbotelectronics.com/tienda/carrito/">Carrito</a></li>
+<li class="page_item page-item-11152"><a href="https://geekbotelectronics.com/tienda/contacto/">Contacto</a></li>
+<li class="page_item page-item-12951"><a href="https://geekbotelectronics.com/tienda/corte-laser/">Corte Láser</a></li>
+<li class="page_item page-item-12945"><a href="https://geekbotelectronics.com/tienda/diseno-de-circuitos-impresos/">Diseño de Circuitos Impresos</a></li>
+<li class="page_item page-item-12947"><a href="https://geekbotelectronics.com/tienda/ensamble-de-circuitos-impresos/">Ensamble de Circuitos Impresos</a></li>
+<li class="page_item page-item-8"><a href="https://geekbotelectronics.com/tienda/finalizar-compra/">Finalizar compra</a></li>
+<li class="page_item page-item-12949"><a href="https://geekbotelectronics.com/tienda/grabado-laser-sobre-metal/">Grabado Láser sobre Metal</a></li>
+<li class="page_item page-item-12953"><a href="https://geekbotelectronics.com/tienda/impresion-3d/">Impresión 3D</a></li>
+<li class="page_item page-item-9"><a href="https://geekbotelectronics.com/tienda/mi-cuenta/">Mi cuenta</a></li>
+<li class="page_item page-item-3"><a href="https://geekbotelectronics.com/tienda/politica-privacidad/">Política de privacidad</a></li>
+<li class="page_item page-item-11153"><a href="https://geekbotelectronics.com/tienda/servicios/">Servicios</a></li>
+<li class="page_item page-item-12934"><a href="https://geekbotelectronics.com/tienda/soporte/">Soporte</a></li>
+</ul></div>
+		</nav><!-- #site-navigation -->
+				<ul id="site-header-cart" class="site-header-cart menu">
+			<li class="">
+							<a class="cart-contents" href="https://geekbotelectronics.com/tienda/carrito/" title="Ver tu carrito de compra">
+								<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>0.00</span> <span class="count">0 productos</span>
+			</a>
+					</li>
+			<li>
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</li>
+		</ul>
+			</div></div>
+	</header><!-- #masthead -->
+
+	<div class="storefront-breadcrumb"><div class="col-full"><nav class="woocommerce-breadcrumb" aria-label="migas de pan"><a href="https://geekbotelectronics.com/tienda">Inicio</a><span class="breadcrumb-separator"> / </span><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/">SENSORES</a><span class="breadcrumb-separator"> / </span><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/acelerometro-giroscopio-magnetometro/">Acelerómetro, Giroscopio, Magnetómetro</a><span class="breadcrumb-separator"> / </span>Sensor ADXL345 Acelerómetro Digital</nav></div></div>
+	<div id="content" class="site-content" tabindex="-1">
+		<div class="col-full">
+
+		<div class="woocommerce"></div>
+			<div id="primary" class="content-area">
+			<main id="main" class="site-main" role="main">
+		
+					
+			<div class="woocommerce-notices-wrapper"></div><div id="product-4691" class="product type-product post-4691 status-publish first instock product_cat-acelerometro-giroscopio-magnetometro product_tag-acelerometro has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+
+	<div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-4 images" data-columns="4" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg"><img width="416" height="416" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-416x416.jpg" class="wp-post-image" alt="" decoding="async" loading="lazy" title="ADXL345" data-caption="" data-src="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg" data-large_image="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg" data-large_image_width="1000" data-large_image_height="1000" srcset="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-416x416.jpg 416w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-324x324.jpg 324w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-100x100.jpg 100w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-300x300.jpg 300w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-150x150.jpg 150w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-768x768.jpg 768w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1.jpg 1000w" sizes="(max-width: 416px) 100vw, 416px" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		<h1 class="product_title entry-title">Sensor ADXL345 Acelerómetro Digital</h1><p class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>100.00</bdi></span> <small class="woocommerce-price-suffix">IVA</small></p>
+<div class="woocommerce-product-details__short-description">
+	<p>El sensor acelerómetro digital 3 ejes ADXL345 es un módulo de alta precisión capaz de medir, aceleración, inclinación, vibración y caída libre.  En su resolución más alta llega a medir variaciones menores a 1.0°.</p>
+</div>
+<p class="stock in-stock">5 disponibles</p>
+
+	
+	<form class="cart" action="https://geekbotelectronics.com/tienda/producto/sensor-adxl345-acelerometro-digital/" method="post" enctype='multipart/form-data'>
+		
+		<div class="quantity">
+		<label class="screen-reader-text" for="quantity_65714ce7c1b98">Sensor ADXL345 Acelerómetro Digital cantidad</label>
+	<input
+		type="number"
+				id="quantity_65714ce7c1b98"
+		class="input-text qty text"
+		name="quantity"
+		value="1"
+		title="Cantidad"
+		size="4"
+		min="1"
+		max="5"
+					step="1"
+			placeholder=""
+			inputmode="numeric"
+			autocomplete="off"
+			/>
+	</div>
+
+		<button type="submit" name="add-to-cart" value="4691" class="single_add_to_cart_button button alt wp-element-button">Añadir al carrito</button>
+
+			</form>
+
+	
+<div class="ppc-button-wrapper"><div id="ppc-button-ppcp-gateway"></div></div><div class="product_meta">
+
+	
+	
+		<span class="sku_wrapper">SKU: <span class="sku">6000745</span></span>
+
+	
+	<span class="posted_in">Categoría: <a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/acelerometro-giroscopio-magnetometro/" rel="tag">Acelerómetro, Giroscopio, Magnetómetro</a></span>
+	<span class="tagged_as">Etiqueta: <a href="https://geekbotelectronics.com/tienda/etiqueta-producto/acelerometro/" rel="tag">acelerómetro</a></span>
+	
+</div>
+	</div>
+
+	
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs" role="tablist">
+							<li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
+					<a href="#tab-description">
+						Descripción					</a>
+				</li>
+					</ul>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab" id="tab-description" role="tabpanel" aria-labelledby="tab-title-description">
+				
+	<h2>Descripción</h2>
+
+<h4>ADXL345 Acelerómetro Digital de 3 ejes</h4>
+<p>El ADXL345 es un acelerómetro de 3 ejes de alta resolución (13 <i>bit</i>) que puede medir hasta ± 16 g. Es pequeño, delgado, y tiene bajo consumo de energía. El formato de los datos de salida es de complemento a dos de 16 <i>bit</i>. Los datos se pueden obtener a través de interfaz SPI de 3 o 4 alambres, o I2C.</p>
+<p>El ADXL345 es adecuado para medir la aceleración estática de la gravedad para aplicaciones de detección de inclinación, así como la aceleración dinámica ocasionada por algún movimiento o impacto. Su alta resolución (4 <i>mg/LSB</i>) permite medir cambios de inclinación de menos de 1.0°.</p>
+<p>Incluye funciones especiales de detección. Puede reconocer cuando no hay inactividad con base en la presencia o ausencia de movimiento, y si la aceleración en cualquier eje excede de un nivel establecido por el usuario. Tambin detecta pequeños impulsos individuales y dobles, cuando el dispositivo está en caída libre.</p>
+<p>Estas funciones se pueden asignar a cualquiera de los dos pines de salida de interrupción. La tarjeta cuenta con un buffer de 32 <i>bits</i> tipo FIFO, para almacenar datos y minimizar la intervención del procesador que se este empleando. Incluye modalidades de bajo consumo que permiten administrar la energía con base en la detección de movimiento y la medición del umbral de aceleración activa para lograr consumos de energía extremadamente bajos.</p>
+<p><strong>Especificaciones</strong>:</p>
+<ul>
+<li>Voltaje de alimentación: 2.0 &#8211; 3.6 <i>V DC</i></li>
+<li>Bajo consumo de potencia: 40 <i>µA</i> en modalidad de medición, y 0.1 <i>µA</i> en modo de espera @ 2.5<i>V</i></li>
+<li>Detección de pequeños impulsos (sencillo y doble, semejante a un doble click)</li>
+<li>Detección de caída libre</li>
+<li>Compatible con interfaces SPI e I2C</li>
+</ul>
+<p><a href="http://www.geekbotelectronics.com/wp-content/uploads/2015/09/ADXL345.pdf">DataSheet</a></p>
+			</div>
+		
+			</div>
+
+
+	<section class="related products">
+
+					<h2>Productos relacionados</h2>
+				
+		<ul class="products columns-3">
+
+			
+					<li class="product type-product post-4692 status-publish first outofstock product_cat-acelerometro-giroscopio-magnetometro has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geekbotelectronics.com/tienda/producto/sensor-l3g4200d-giroscopio-digital/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-324x324.jpg 324w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-100x100.jpg 100w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-416x416.jpg 416w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-300x300.jpg 300w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-150x150.jpg 150w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200-768x768.jpg 768w, https://geekbotelectronics.com/wp-content/uploads/2021/06/L3G4200.jpg 1000w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Sensor L3G4200D Giroscopio Digital</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>180.00</bdi></span> <small class="woocommerce-price-suffix">IVA</small></span>
+</a><a href="https://geekbotelectronics.com/tienda/producto/sensor-l3g4200d-giroscopio-digital/" data-quantity="1" class="button wp-element-button product_type_simple" data-product_id="4692" data-product_sku="6000746" aria-label="Lee más sobre &ldquo;Sensor L3G4200D Giroscopio Digital&rdquo;" rel="nofollow">Leer más</a></li>
+
+			
+					<li class="product type-product post-4541 status-publish instock product_cat-acelerometro-giroscopio-magnetometro has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geekbotelectronics.com/tienda/producto/sensor-hmc5883l-magnetometro/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-324x324.jpg 324w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-100x100.jpg 100w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-416x416.jpg 416w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-300x300.jpg 300w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-150x150.jpg 150w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-768x768.jpg 768w, https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1.jpg 1000w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Sensor HMC5883L Magnetómetro</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>120.00</bdi></span> <small class="woocommerce-price-suffix">IVA</small></span>
+</a><a href="?add-to-cart=4541" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="4541" data-product_sku="6000615" aria-label="Añade &ldquo;Sensor HMC5883L Magnetómetro&rdquo; a tu carrito" rel="nofollow">Añadir al carrito</a></li>
+
+			
+					<li class="product type-product post-3961 status-publish last instock product_cat-acelerometro-giroscopio-magnetometro has-post-thumbnail taxable shipping-taxable purchasable product-type-simple">
+	<a href="https://geekbotelectronics.com/tienda/producto/sensor-adxl335-acelerometro-analogico/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-324x324.jpg 324w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-100x100.jpg 100w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-416x416.jpg 416w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-300x300.jpg 300w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-150x150.jpg 150w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1-768x768.jpg 768w, https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL335-1.jpg 1000w" sizes="(max-width: 324px) 100vw, 324px" /><h2 class="woocommerce-loop-product__title">Sensor ADXL335 Acelerómetro Analógico</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>180.00</bdi></span> <small class="woocommerce-price-suffix">IVA</small></span>
+</a><a href="?add-to-cart=3961" data-quantity="1" class="button wp-element-button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="3961" data-product_sku="6000058" aria-label="Añade &ldquo;Sensor ADXL335 Acelerómetro Analógico&rdquo; a tu carrito" rel="nofollow">Añadir al carrito</a></li>
+
+			
+		</ul>
+
+	</section>
+			<nav class="storefront-product-pagination" aria-label="Más productos">
+							<a href="https://geekbotelectronics.com/tienda/producto/sensor-hmc5883l-magnetometro/" rel="prev">
+					<img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/HMC5883L-1-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />					<span class="storefront-product-pagination__title">Sensor HMC5883L Magnetómetro</span>
+				</a>
+			
+							<a href="https://geekbotelectronics.com/tienda/producto/sensor-mpu6050-acelerometro-y-giroscopio/" rel="next">
+					<img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/10/MPU6050-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />					<span class="storefront-product-pagination__title">Sensor MPU6050 Acelerómetro y Giroscopio</span>
+				</a>
+					</nav><!-- .storefront-product-pagination -->
+		</div>
+
+
+		
+				</main><!-- #main -->
+		</div><!-- #primary -->
+
+		
+<div id="secondary" class="widget-area" role="complementary">
+	<div id="search-1" class="widget widget_search"><span class="gamma widget-title">Search</span><form role="search" method="get" class="search-form" action="https://geekbotelectronics.com/tienda/">
+				<label>
+					<span class="screen-reader-text">Buscar:</span>
+					<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Buscar" />
+			</form></div><div id="woocommerce_product_categories-5" class="widget woocommerce widget_product_categories"><span class="gamma widget-title">Categorías del producto</span><ul class="product-categories"><li class="cat-item cat-item-91"><a href="https://geekbotelectronics.com/tienda/categoria-producto/audio/">AUDIO</a></li>
+<li class="cat-item cat-item-35"><a href="https://geekbotelectronics.com/tienda/categoria-producto/botones-y-switches/">BOTONES Y SWITCHES</a></li>
+<li class="cat-item cat-item-28"><a href="https://geekbotelectronics.com/tienda/categoria-producto/cables/">CABLES</a></li>
+<li class="cat-item cat-item-80"><a href="https://geekbotelectronics.com/tienda/categoria-producto/capacitores/">CAPACITORES</a></li>
+<li class="cat-item cat-item-18"><a href="https://geekbotelectronics.com/tienda/categoria-producto/conectores/">CONECTORES</a></li>
+<li class="cat-item cat-item-16"><a href="https://geekbotelectronics.com/tienda/categoria-producto/energia/">ENERGÍA</a></li>
+<li class="cat-item cat-item-107"><a href="https://geekbotelectronics.com/tienda/categoria-producto/herramienta/">HERRAMIENTA</a></li>
+<li class="cat-item cat-item-187"><a href="https://geekbotelectronics.com/tienda/categoria-producto/inductores/">INDUCTORES</a></li>
+<li class="cat-item cat-item-140"><a href="https://geekbotelectronics.com/tienda/categoria-producto/mecanicos/">MECÁNICOS</a></li>
+<li class="cat-item cat-item-109"><a href="https://geekbotelectronics.com/tienda/categoria-producto/modulos/">MÓDULOS</a></li>
+<li class="cat-item cat-item-51"><a href="https://geekbotelectronics.com/tienda/categoria-producto/motores/">MOTORES</a></li>
+<li class="cat-item cat-item-22"><a href="https://geekbotelectronics.com/tienda/categoria-producto/optoelectronica/">OPTOELECTRÓNICA</a></li>
+<li class="cat-item cat-item-53"><a href="https://geekbotelectronics.com/tienda/categoria-producto/proyectos/">PROYECTOS</a></li>
+<li class="cat-item cat-item-56"><a href="https://geekbotelectronics.com/tienda/categoria-producto/resistencias/">RESISTENCIAS</a></li>
+<li class="cat-item cat-item-33"><a href="https://geekbotelectronics.com/tienda/categoria-producto/semiconductores/">SEMICONDUCTORES</a></li>
+<li class="cat-item cat-item-61 cat-parent current-cat-parent"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/">SENSORES</a><ul class='children'>
+<li class="cat-item cat-item-62 current-cat"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/acelerometro-giroscopio-magnetometro/">Acelerómetro, Giroscopio, Magnetómetro</a></li>
+<li class="cat-item cat-item-73"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/ambientales/">Ambientales</a></li>
+<li class="cat-item cat-item-152"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/biometricos/">Biométricos</a></li>
+<li class="cat-item cat-item-160"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/corriente/">Corriente</a></li>
+<li class="cat-item cat-item-142"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/flexion-fuerza/">Flexión / Fuerza</a></li>
+<li class="cat-item cat-item-177"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/localizacion/">Localización</a></li>
+<li class="cat-item cat-item-65"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/opticos/">Ópticos</a></li>
+<li class="cat-item cat-item-63"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sensores/proximidad/">Proximidad</a></li>
+</ul>
+</li>
+<li class="cat-item cat-item-214"><a href="https://geekbotelectronics.com/tienda/categoria-producto/servicio/">Servicio</a></li>
+<li class="cat-item cat-item-15"><a href="https://geekbotelectronics.com/tienda/categoria-producto/sin-categorizar/">Sin categorizar</a></li>
+<li class="cat-item cat-item-38"><a href="https://geekbotelectronics.com/tienda/categoria-producto/tarjetas-de-desarrollo/">TARJETAS DE DESARROLLO</a></li>
+<li class="cat-item cat-item-212"><a href="https://geekbotelectronics.com/tienda/categoria-producto/wireless/">WIRELESS</a></li>
+</ul></div></div><!-- #secondary -->
+
+	
+
+		</div><!-- .col-full -->
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="col-full">
+
+					<div class="site-info">
+			&copy; Geekbot Electronics 2023
+							<br />
+				<a class="privacy-policy-link" href="https://geekbotelectronics.com/tienda/politica-privacidad/" rel="privacy-policy">Política de privacidad</a><span role="separator" aria-hidden="true"></span><a href="https://woocommerce.com" target="_blank" title="WooCommerce - La mejor plataforma de eCommerce para WordPress" rel="noreferrer">Creado con Storefront y WooCommerce</a>.					</div><!-- .site-info -->
+				<div class="storefront-handheld-footer-bar">
+			<ul class="columns-3">
+									<li class="my-account">
+						<a href="https://geekbotelectronics.com/tienda/mi-cuenta/">Mi cuenta</a>					</li>
+									<li class="search">
+						<a href="">Buscar</a>			<div class="site-search">
+				<div class="widget woocommerce widget_product_search"><form role="search" method="get" class="woocommerce-product-search" action="https://geekbotelectronics.com/tienda/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field-1">Buscar por:</label>
+	<input type="search" id="woocommerce-product-search-field-1" class="search-field" placeholder="Buscar productos&hellip;" value="" name="s" />
+	<button type="submit" value="Buscar" class="wp-element-button">Buscar</button>
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>			</div>
+								</li>
+									<li class="cart">
+									<a class="footer-cart-contents" href="https://geekbotelectronics.com/tienda/carrito/">Carrito				<span class="count">0</span>
+			</a>
+							</li>
+							</ul>
+		</div>
+		
+		</div><!-- .col-full -->
+	</footer><!-- #colophon -->
+
+				<section class="storefront-sticky-add-to-cart">
+				<div class="col-full">
+					<div class="storefront-sticky-add-to-cart__content">
+						<img width="324" height="324" src="https://geekbotelectronics.com/wp-content/uploads/2021/06/ADXL345-1-324x324.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" />						<div class="storefront-sticky-add-to-cart__content-product-info">
+							<span class="storefront-sticky-add-to-cart__content-title">Estás viendo: <strong>Sensor ADXL345 Acelerómetro Digital</strong></span>
+							<span class="storefront-sticky-add-to-cart__content-price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#036;</span>100.00</span> <small class="woocommerce-price-suffix">IVA</small></span>
+													</div>
+						<a href="?add-to-cart=4691" class="storefront-sticky-add-to-cart__content-button button alt" rel="nofollow">
+							Añadir al carrito						</a>
+					</div>
+				</div>
+			</section><!-- .storefront-sticky-add-to-cart -->
+		
+</div><!-- #page -->
+
+<p class="woocommerce-store-notice demo_store" data-notice-id="3e6a52eabd4a81b3676a47f6fc0c7312" style="display:none;">Consulte todas las actualizaciones de COVID-19, ya que algunos envíos pueden retrasarse debido a las pautas de seguridad. Si tiene un pedido o una pregunta sobre el envío, consulte nuestra página de Atención al cliente. Gracias por su continuo apoyo. <a href="#" class="woocommerce-store-notice__dismiss-link">Descartar</a></p><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@graph":[{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Inicio","@id":"https:\/\/geekbotelectronics.com\/tienda"}},{"@type":"ListItem","position":2,"item":{"name":"SENSORES","@id":"https:\/\/geekbotelectronics.com\/tienda\/categoria-producto\/sensores\/"}},{"@type":"ListItem","position":3,"item":{"name":"Aceler\u00f3metro, Giroscopio, Magnet\u00f3metro","@id":"https:\/\/geekbotelectronics.com\/tienda\/categoria-producto\/sensores\/acelerometro-giroscopio-magnetometro\/"}},{"@type":"ListItem","position":4,"item":{"name":"Sensor ADXL345 Aceler\u00f3metro Digital","@id":"https:\/\/geekbotelectronics.com\/tienda\/producto\/sensor-adxl345-acelerometro-digital\/"}}]},{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"https:\/\/geekbotelectronics.com\/tienda\/producto\/sensor-adxl345-acelerometro-digital\/#product","name":"Sensor ADXL345 Aceler\u00f3metro Digital","url":"https:\/\/geekbotelectronics.com\/tienda\/producto\/sensor-adxl345-acelerometro-digital\/","description":"El sensor aceler\u00f3metro digital 3 ejes\u00a0ADXL345 es un m\u00f3dulo de alta precisi\u00f3n capaz de medir, aceleraci\u00f3n, inclinaci\u00f3n, vibraci\u00f3n y ca\u00edda libre. \u00a0En su resoluci\u00f3n m\u00e1s alta llega a medir variaciones menores a 1.0\u00b0.","image":"https:\/\/geekbotelectronics.com\/wp-content\/uploads\/2021\/06\/ADXL345-1.jpg","sku":"6000745","offers":[{"@type":"Offer","price":"100.00","priceValidUntil":"2024-12-31","priceSpecification":{"price":"100.00","priceCurrency":"MXN","valueAddedTaxIncluded":"true"},"priceCurrency":"MXN","availability":"http:\/\/schema.org\/InStock","url":"https:\/\/geekbotelectronics.com\/tienda\/producto\/sensor-adxl345-acelerometro-digital\/","seller":{"@type":"Organization","name":"Geekbot Electronics","url":"https:\/\/geekbotelectronics.com\/tienda"}}]}]}</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" aria-label="Cerrar (Esc)"></button>
+				<button class="pswp__button pswp__button--share" aria-label="Compartir"></button>
+				<button class="pswp__button pswp__button--fs" aria-label="Cambiar a pantalla completa"></button>
+				<button class="pswp__button pswp__button--zoom" aria-label="Ampliar/Reducir"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" aria-label="Anterior (flecha izquierda)"></button>
+			<button class="pswp__button pswp__button--arrow--right" aria-label="Siguiente (flecha derecha)"></button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script id='woocommerce-mercadopago-info-admin-credits-script-js-extra'>
+var wc_mp_icon_images = {"computerBlueIcon":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/desktop-blue-icon.png","computerGrayIcon":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/desktop-gray-icon.png","cellphoneBlueIcon":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/cellphone-blue-icon.png","cellphoneGrayIcon":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/cellphone-gray-icon.png","viewMobile":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/HISPANO_view_mobile.gif","viewDesktop":"https:\/\/geekbotelectronics.com\/wp-content\/plugins\/woocommerce-mercadopago\/includes\/..\/assets\/images\/credits\/HISPANO_view_desktop.gif","footerDesktop":"Componente en la p\u00e1gina del producto | Versi\u00f3n para computadora","footerCellphone":"Componente en la p\u00e1gina del producto | Versi\u00f3n para celular"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce-mercadopago/includes/../assets/js/credits/example-info.min.js?ver=6.7.1' id='woocommerce-mercadopago-info-admin-credits-script-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/wedevs-project-manager/src/Pusher/views/assets/vendor/pusher-v5.0.2.min.js?ver=1688450505' id='pm-pusher-library-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/wedevs-project-manager/src/Pusher/views/assets/vendor/toastr/toastr.min.js?ver=1688450505' id='pm-toastr-pusher-js'></script>
+<script id='pm-pusher-jquery-js-extra'>
+var PM_Pusher_Vars = {"base_url":"https:\/\/geekbotelectronics.com\/tienda\/wp-json\/","pusher_app_key":null,"pusher_app_id":null,"pusher_cluster":null,"user_id":"0","is_admin":"","channel":"private-wp-project-manager","events":{"task_create":"create-task","task_update":"update-task","new_comment":"new-comment","message_create":"create-message","message_update":"update-message"},"api_base_url":"https:\/\/geekbotelectronics.com\/tienda\/wp-json\/","api_namespace":"pm\/v2"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/wedevs-project-manager/src/Pusher/views/assets/vendor/pusher-jquery.js?ver=1701924071' id='pm-pusher-jquery-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.5.0' id='jquery-blockui-js'></script>
+<script id='wc-add-to-cart-js-extra'>
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tienda\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrito","cart_url":"https:\/\/geekbotelectronics.com\/tienda\/carrito\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.5.0' id='wc-add-to-cart-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.7.5.0' id='zoom-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.7.5.0' id='flexslider-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.5.0' id='photoswipe-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.5.0' id='photoswipe-ui-default-js'></script>
+<script id='wc-single-product-js-extra'>
+var wc_single_product_params = {"i18n_required_rating_text":"Por favor elige una puntuaci\u00f3n","review_rating_required":"no","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"1","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.5.0' id='wc-single-product-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.5.0' id='js-cookie-js'></script>
+<script id='woocommerce-js-extra'>
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tienda\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.5.0' id='woocommerce-js'></script>
+<script id='wc-cart-fragments-js-extra'>
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/tienda\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_44b81e16b5a208950bd4a14853450b18","fragment_name":"wc_fragments_44b81e16b5a208950bd4a14853450b18","request_timeout":"5000"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.5.0' id='wc-cart-fragments-js'></script>
+<script id='ppcp-smart-button-js-extra'>
+var PayPalCommerceGateway = {"url":"https:\/\/www.paypal.com\/sdk\/js?client-id=AffGpCBzlr0svnqQ2qWAn6EuUFq-tn12noACs6WJL7utiBalTUUwPJTDBYB7swoTiJhK5Lnfbee-NHfh&currency=MXN&integration-date=2023-02-21&components=buttons,funding-eligibility&vault=false&commit=false&intent=capture&disable-funding=card&enable-funding=venmo,paylater","url_params":{"client-id":"AffGpCBzlr0svnqQ2qWAn6EuUFq-tn12noACs6WJL7utiBalTUUwPJTDBYB7swoTiJhK5Lnfbee-NHfh","currency":"MXN","integration-date":"2023-02-21","components":"buttons,funding-eligibility","vault":"false","commit":"false","intent":"capture","disable-funding":"card","enable-funding":"venmo,paylater"},"script_attributes":{"data-partner-attribution-id":"Woo_PPCP"},"data_client_id":{"set_attribute":false,"endpoint":"\/tienda\/?wc-ajax=ppc-data-client-id","nonce":"1b17570cf6","user":0,"has_subscriptions":false},"redirect":"https:\/\/geekbotelectronics.com\/tienda\/finalizar-compra\/","context":"product","ajax":{"change_cart":{"endpoint":"\/tienda\/?wc-ajax=ppc-change-cart","nonce":"3bd0d176b5"},"create_order":{"endpoint":"\/tienda\/?wc-ajax=ppc-create-order","nonce":"f8c291599a"},"approve_order":{"endpoint":"\/tienda\/?wc-ajax=ppc-approve-order","nonce":"f064772a71"},"vault_paypal":{"endpoint":"\/tienda\/?wc-ajax=ppc-vault-paypal","nonce":"7394b27b83"},"save_checkout_form":{"endpoint":"\/tienda\/?wc-ajax=ppc-save-checkout-form","nonce":"8246fe0f0c"},"validate_checkout":{"endpoint":"\/tienda\/?wc-ajax=ppc-validate-checkout","nonce":"4b314a1ec4"},"cart_script_params":{"endpoint":"\/tienda\/?wc-ajax=ppc-cart-script-params"}},"enforce_vault":"","can_save_vault_token":"","is_free_trial_cart":"","vaulted_paypal_email":"","bn_codes":{"checkout":"Woo_PPCP","cart":"Woo_PPCP","mini-cart":"Woo_PPCP","product":"Woo_PPCP"},"payer":null,"button":{"wrapper":"#ppc-button-ppcp-gateway","mini_cart_wrapper":"#ppc-button-minicart","cancel_wrapper":"#ppcp-cancel","mini_cart_style":{"layout":"horizontal","color":"gold","shape":"rect","label":"paypal","tagline":"false","height":35},"style":{"layout":"horizontal","color":"gold","shape":"rect","label":"paypal","tagline":"true"}},"separate_buttons":{"card":{"id":"ppcp-card-button-gateway","wrapper":"#ppc-button-ppcp-card-button-gateway","style":{"shape":"rect"}}},"hosted_fields":{"wrapper":"#ppcp-hosted-fields","labels":{"credit_card_number":"","cvv":"","mm_yy":"MM\/YY","fields_not_valid":"Desafortunadamente, los detalles de tu tarjeta de cr\u00e9dito no son v\u00e1lidos.","card_not_supported":"Desafortunadamente, no admitimos tu tarjeta de cr\u00e9dito.","cardholder_name_required":"El nombre y apellidos del titular de la tarjeta son obligatorios, por favor, rellena los campos obligatorios del formulario de finalizar compra."},"valid_cards":[],"contingency":"SCA_WHEN_REQUIRED"},"messages":[],"labels":{"error":{"generic":"Algo ha salido mal. Por favor, int\u00e9ntalo de nuevo o elige otra fuente de pago.","required":{"generic":"Los campos obligatorios del formulario no est\u00e1n completos.","field":"%s es un campo requerido.","elements":{"terms":"Por favor, lee y acepta los t\u00e9rminos y condiciones para proceder con tu pedido."}}},"billing_field":"Facturaci\u00f3n %s","shipping_field":"Env\u00edo %s"},"order_id":"0","single_product_buttons_enabled":"1","mini_cart_buttons_enabled":"1","basic_checkout_validation_enabled":"","early_checkout_validation_enabled":"1"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/plugins/woocommerce-paypal-payments/modules/ppcp-button/assets/js/button.js?ver=2.0.3' id='ppcp-smart-button-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/themes/storefront/assets/js/navigation.min.js?ver=3.7.0' id='storefront-navigation-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/themes/storefront/assets/js/skip-link-focus-fix.min.js?ver=20130115' id='storefront-skip-link-focus-fix-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.7.0' id='storefront-header-cart-js'></script>
+<script src='https://geekbotelectronics.com/wp-content/themes/storefront/assets/js/footer.min.js?ver=3.7.0' id='storefront-handheld-footer-bar-js'></script>
+<script id='storefront-sticky-add-to-cart-js-extra'>
+var storefront_sticky_add_to_cart_params = {"trigger_class":"entry-summary"};
+</script>
+<script src='https://geekbotelectronics.com/wp-content/themes/storefront/assets/js/sticky-add-to-cart.min.js?ver=3.7.0' id='storefront-sticky-add-to-cart-js'></script>
+
+</body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 5.3.3 on 2023-12-06 22:41:11 -->
