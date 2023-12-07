@@ -21,6 +21,14 @@
   z-index: 10;
 }
 
+.col-lg-4.mb-5 .card {
+  transition: transform 0.3s ease;
+}
+
+.col-lg-4.mb-5 .card:hover {
+  transform: scale(1.1); /* Cambia el valor para ajustar el grado de agrandamiento */
+}
+
 /* Declare heights because of positioning of img element */
 .carousel-item {
   height: 20rem;
